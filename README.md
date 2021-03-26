@@ -11,6 +11,7 @@
 * Canelones
 * puchero
 * Guiso de Lentejas
+* Croquetas
 
 
 
@@ -20,10 +21,15 @@
 * Asado
 * hamburguesa
 * Estofado
+* Pollo a la crema
 * Milanesas
 
+<<<<<<< HEAD
 ## Postres
 
 * Flan
 * Tiramisu
 * Cheese cake
+=======
+
+>>>>>>> 575dca93e1cbb8c35a3d72416c32771b3007a0a5
