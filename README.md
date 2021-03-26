@@ -10,3 +10,4 @@
 * Guiso
 * Estofado
 * Canelones
+* Milanesas
