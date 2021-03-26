@@ -14,3 +14,4 @@
 * puchero
 * Guiso de Lentejas
 * Mondongo
+* Asado
