@@ -12,3 +12,5 @@
 * Canelones
 * Milanesas
 * puchero
+* Guiso de Lentejas
+* Mondongo
