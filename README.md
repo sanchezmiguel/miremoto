@@ -11,3 +11,4 @@
 * Estofado
 * Canelones
 * Milanesas
+* Asado
