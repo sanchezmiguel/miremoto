@@ -8,11 +8,17 @@
 * ravioles
 * tequeños
 * Guiso
-* Estofado
 * Canelones
-* Milanesas
 * puchero
 * Guiso de Lentejas
+
+
+
+## Con Carne
+
 * Mondongo
 * Asado
 * hamburguesa
+* Estofado
+* Milanesas
+
