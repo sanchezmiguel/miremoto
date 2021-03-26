@@ -11,6 +11,7 @@
 * Canelones
 * puchero
 * Guiso de Lentejas
+* Croquetas
 
 
 
@@ -23,4 +24,9 @@
 * Pollo a la crema
 * Milanesas
 
+<<<<<<< HEAD
 
+=======
+## Postres
+* Ensalada de frutas
+>>>>>>> 4d7faec19430da50a65b8f3e9fc778a80d7585fd
