@@ -11,4 +11,4 @@
 * Estofado
 * Canelones
 * Milanesas
-* Asado
+* puchero
