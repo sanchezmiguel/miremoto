@@ -7,4 +7,5 @@
 * lasagna
 * ravioles
 * tequeños
-* chivito
+* Guiso
+* Estofado
