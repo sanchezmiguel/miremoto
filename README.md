@@ -7,3 +7,4 @@
 * lasagna
 * ravioles
 * tequeños
+* chivito
