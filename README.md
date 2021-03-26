@@ -9,3 +9,4 @@
 * tequeños
 * Guiso
 * Estofado
+* Canelones
