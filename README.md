@@ -22,5 +22,5 @@
 * Estofado
 * Milanesas
 
-## Con Carne
+## Postres
 * Ensalada de frutas
